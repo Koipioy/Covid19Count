@@ -1,0 +1,17 @@
+{
+  "name": "Covid19Count",
+  "displayName": "Covid19Count",
+  "expo": {
+    "name": "Covid19Count",
+    "slug": "Covid19Count",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
