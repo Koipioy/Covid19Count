@@ -43,4 +43,6 @@ target 'Covid19Count' do
 
   # react-native-cli autolinking
   use_native_modules!
+  pod 'RNBackgroundFetch', :path => '../node_modules/react-native-background-fetch'
+
 end
